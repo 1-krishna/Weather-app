@@ -1,5 +1,9 @@
 # weather-app
 
+Weather app that displays 5 days forecast with autofill-search functionality
+
+![Demo-Image](demo-image.png)
+
 ## Project setup
 ```
 npm install
@@ -13,11 +17,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
 ```
 
 ### Lints and fixes files
